@@ -8,7 +8,9 @@ You need to install several library for running this project:<br>
 ## runner : 
 python main.py -c "law" -l "gpt" -e 0 -t 0 -r 0,1,2,100
 > note
-- "c : for chunking"
+- "c : for chunking"<br>
+set 'law' for our chunking_data<br>
+set 'seq' for sequential data
 - "l : LLM"
 - "t : temperature" <br> set 0 for 0 temp <br>
 set 0.5 for 0.5 temp
