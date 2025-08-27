@@ -11,7 +11,12 @@ python main.py -c "law" -l "gpt" -e 0 -t 0 -r 0,1,2,100
 - "c : for chunking"<br>
 set 'law' for our chunking_data<br>
 set 'seq' for sequential data
-- "l : LLM"
+- "l : LLM"<br>
+set 'gpt' for chat_gpt_turbo_3.5<br>
+set 'mis' for the mistral llm
+- "e : mcq/essay"<br>
+set 0 to MCQ<br>
+set 1 to Essay
 - "t : temperature" <br> set 0 for 0 temp <br>
 set 0.5 for 0.5 temp
 - "r : reranker"<br>
