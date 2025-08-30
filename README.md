@@ -28,6 +28,7 @@ set 100 for no reranker
 
 
 # Dataset
+PDFs dataset can be found by this link : https://drive.google.com/drive/folders/10z_w246r-vkgI5VMT4DBc97YSntDPuKf?usp=drive_link
 - Law chunking data<br>
 Our chunking method dataset consisted 6,674 chunks can be check by this link:
 <br>
