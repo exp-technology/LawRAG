@@ -37,7 +37,7 @@ https://drive.google.com/file/d/1YWNvMiZCQTPKvO02vzsi0QRnPhoBwmyI/view?usp=shari
 <!--you can ask me for the permission to show the file by clicking the url.---><br>
 - Sequential data<br>
 We provide the chroma_db version for the sequential data. You dont need to embed all datas anymore. 
-<br> https://github.com/exp-technology/LawRAG/tree/main/db_seq
+<br> https://github.com/exp-technology/LawRAG/tree/main/db_seq <br>
 # Experiment data
 Experiment show in experiment folder<br>
 https://github.com/exp-technology/LawRAG/tree/main/experiment
