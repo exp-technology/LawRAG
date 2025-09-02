@@ -34,7 +34,7 @@ Our chunking method dataset consisted 6,674 chunks can be check by this link:
 <br>
 https://drive.google.com/file/d/1YWNvMiZCQTPKvO02vzsi0QRnPhoBwmyI/view?usp=sharing
 <br>
-<!-->you can ask me for the permission to show the file by clicking the url.<---><br>
+<!--you can ask me for the permission to show the file by clicking the url.---><br>
 - Sequential data<br>
 We provide the chroma_db version for the sequential data. You dont need to embed all datas anymore. 
 <br> https://github.com/exp-technology/LawRAG/tree/main/db_seq
